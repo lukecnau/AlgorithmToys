@@ -6,6 +6,8 @@ For each of them I just finished the most important parts for observing the insi
 that is enough for me to understand them, especially some points many books or specifications do not explain clearly.
 I ignored some small features, hence I call it TOY. 
 
+The list of mplemented algorithms:
+
 Hash: MD5, SM3, SHA-Family.
 Symmetric encryption/decryption: DES, AES, SM4.
 Asymmetric encryption/decryption: RSA, SM2.
