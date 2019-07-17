@@ -11,7 +11,7 @@ Symmetric encryption/decryption: DES, AES, SM4.
 Asymmetric encryption/decryption: RSA, SM2.
 
 
-#算法玩具包
+# 算法玩具包
 
 为了学习一些安全算法的详细内容，我根据各类标准实现了它们。取消程序中 log.printXXX 前的注释，就可以看到运算过程。
 
