@@ -1,4 +1,4 @@
-# AlgorithmToys
+# Algorithm Toys
 For learning the details of different security algorithms, I implement some of them. 
 You can uncomment all the log.printXXX to see the middle-process.
 
